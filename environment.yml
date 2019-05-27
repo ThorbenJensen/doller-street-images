@@ -1,0 +1,10 @@
+name: dollar-street-images
+
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+      - beautifulsoup4
+      - requests
+      - toolz
+      - wget
