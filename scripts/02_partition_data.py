@@ -4,7 +4,6 @@ import json
 
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt
 from toolz import pipe
 from toolz.curried import map
 from functools import partial
