@@ -1,12 +1,12 @@
 """Load training data and partition for training."""
 
 import json
+from functools import partial
 
 import cv2
 import numpy as np
 from toolz import pipe
 from toolz.curried import map
-from functools import partial
 
 # %% load data
 with open("data/labels.json") as f:
