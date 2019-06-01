@@ -1,0 +1,7 @@
+beautifulsoup4
+jupyter
+numpy
+matplotlib
+opencv-python
+requests
+toolz
